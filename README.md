@@ -1,7 +1,7 @@
 ### HOLA ESTIMADOS COMPAÑEROS 👋
 
 <!--
-Gusto de ver el perfil del alumnoe 👨‍🏫 ✨ ARTURO RODRIGUEZ JIMENEZ ✨.
+Gusto de ver el perfil del alumno 👨‍🏫 ✨ ARTURO RODRIGUEZ JIMENEZ ✨.
 
 Here are some ideas to get you started:
 
