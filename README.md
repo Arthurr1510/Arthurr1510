@@ -1,7 +1,7 @@
 ### HOLA ESTIMADOS COMPAÑEROS 👋
 
 <!--
-**Arthurr1510/Arthurr1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gusto de ver el perfil del alumnoe 👨‍🏫 ✨ ARTURO RODRIGUEZ JIMENEZ ✨.
 
 Here are some ideas to get you started:
 
