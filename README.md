@@ -27,3 +27,25 @@ Lo que me gusta y no me gusta:
 | 16:00 | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES |   |   |   |   |
 | 17:00 | SISTEMAS PROGRAMABLES               | SISTEMAS PROGRAMABLES               | SISTEMAS PROGRAMABLES               | SISTEMAS PROGRAMABLES               |                                     |   |   |   |   |
 | 18:00 | LENGUAJES Y AUTOMATAS II            | LENGUAJES Y AUTOMATAS II            | LENGUAJES Y AUTOMATAS II            | LENGUAJES Y AUTOMATAS II            | LENGUAJES Y AUTOMATAS II            |   |   |   |   |
+
+
+Bloque de Código Fuente:
+
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+    static void Main(string[] args)
+    {
+      console.writeLine("Hola Word!");
+    }
+    }
+}
+```
