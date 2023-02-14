@@ -19,8 +19,9 @@ Lo que me gusta y no me gusta:
 
 
 HORARIO ESCOLAR
+
 |       | LUNES                               | MARTES                              | MIERCOLES                           | JUEVES                              | VIERNES                             |   |   |   |   |
-|-------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+|-------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|---|---|---|---|
 | 14.00 | TALLER DE INVESTIGACION I           | TALLER DE INVESTIGACION I           | TALLER DE INVESTIGACION I           | TALLER DE INVESTIGACION I           | GESTION DE PROYECTOS                |   |   |   |   |
 | 15:00 | GESTION DE PROYECTOS                | GESTION DE PROYECTOS                | GESTION DE PROYECTOS                | GESTION DE PROYECTOS                | GESTION DE PROYECTOS                |   |   |   |   |
 | 16:00 | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES | CONMUTACION Y ENRUTAMIENTO DE REDES |   |   |   |   |
