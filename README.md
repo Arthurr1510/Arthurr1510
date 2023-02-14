@@ -1,4 +1,4 @@
-#HOLA ESTIMADOS COMPAÑEROS 👋
+HOLA ESTIMADOS COMPAÑEROS 👋
 
 Gusto de ver el perfil del alumno 👨‍🏫 ✨ ARTURO RODRIGUEZ JIMENEZ ✨.
 
@@ -13,5 +13,5 @@ Perfil del Alumno:
 Lo que me gusta y no me gusta:
 
 -Considero GitHub la herramienta excelente para el nosotros los nuevos ingenieros.
--Me gusta el deporte y la musica-
+-Me gusta el deporte y la musica.
 -Participo en el programa de Policia Juvenil todos los sabados desde hace 10 años.
