@@ -44,7 +44,7 @@ namespace ConsoleApp1
     {
     static void Main(string[] args)
     {
-      console.writeLine("Hola Word!");
+      console.writeLine("Hello Word!");
     }
     }
 }
